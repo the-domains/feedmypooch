@@ -1,0 +1,28 @@
+name: feedmypooch
+favicon: null
+layout_spectrum: 0.9372860640287399
+typography_spectrum: 0.2545666843652725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.017535191727802157
+  lightness: 0.17828996037133038
+  saturation: 0.45978631754405797
+  rhythmicContrast: 0.8433675451669842
+purpose: []
