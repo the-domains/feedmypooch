@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Feed My Pooch]]></title>
         <description><![CDATA[Feed My Pooch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/feedmypooch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 22:54:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 23:09:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/feedmypooch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cba81a43-de30-4caa-8753-26abc266344d.jpg">]]></description>
+            <link>https://thegrid.ai/feedmypooch/courtesy-lifeanddogcom/index.html</link>
+            <guid isPermaLink="false">00221013-ace9-4d59-bdf9-58d899bc8b04</guid>
+            <pubDate>Wed, 18 May 2016 23:09:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d3a48e3-62f3-4852-8693-2006edd25408.jpg">]]></description>
-            <link>undefinedc9efd22f-af18-4fe6-a670-126527857f12/index.html</link>
+            <link>https://thegrid.ai/feedmypooch/c9efd22f-af18-4fe6-a670-126527857f12/index.html</link>
             <guid isPermaLink="false">c9efd22f-af18-4fe6-a670-126527857f12</guid>
             <pubDate>Wed, 18 May 2016 22:54:00 GMT</pubDate>
         </item>
