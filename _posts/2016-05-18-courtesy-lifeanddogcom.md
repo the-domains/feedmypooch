@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Courtesy lifeanddog.com
-datePublished: '2016-05-18T23:09:31.266Z'
-dateModified: '2016-05-18T23:09:26.708Z'
+datePublished: '2016-05-18T23:14:09.637Z'
+dateModified: '2016-05-18T23:09:41.209Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-courtesy-lifeanddogcom.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-courtesy-lifeanddogcom.md
 url: courtesy-lifeanddogcom/index.html
 _type: Article
 
