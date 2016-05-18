@@ -2,6 +2,7 @@ name: feedmypooch
 favicon: null
 layout_spectrum: 0.9372860640287399
 typography_spectrum: 0.2545666843652725
+title: Feed My Pooch
 cta:
   domain: null
   bucket: null
